@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi I'm Tanjila Ahmed 
 🎓 Bachelor of Pharmacy (Professional) from Comilla University<br><br>📚 Currently learning Machine Learning and Python-based projects<br><br>💡 Interested in data preprocessing, predictive modeling, and real-world ML applications<br><br>🛠 Working on: Simple File Encryption Tool in Python<br><br>🤝 Open to collaborating on data science & AI research projects<br><br>🏆 Love solving Kaggle challenges & improving my coding skills<br><br>🌐 Languages: Bangla, English, Hindi
 
 
